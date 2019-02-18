@@ -1,0 +1,5 @@
+N=int(input("Enter interval value:"))
+Q=int(input("Enter space separated value:"))
+for i in range(2,5)
+if(i%2==0)
+print("N"is a odd number)
